@@ -17,4 +17,4 @@ outputs:
     # value: # not needed because it will be set in main.js
 runs:
   using: "docker"
-  image: "Dockkerfile"
+  image: "Dockerfile"
