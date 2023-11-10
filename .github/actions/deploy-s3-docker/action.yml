@@ -16,5 +16,5 @@ outputs:
     description: "The url of the deployed website."
     # value: # not needed because it will be set in main.js
 runs:
-  using: "node20"
-  main: "main.js"
+  using: "docker"
+  image: "Dockkerfile"
